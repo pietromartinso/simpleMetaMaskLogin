@@ -1,6 +1,7 @@
-Just a little practice on how to use MetaMask on Front-ends with HTML, CSS & JS.
+Just a little practice on how to use Web3 + MetaMask on Front-ends with HTML,
+CSS & JS.
 
-Original content provided by Tim Carambat: https://youtu.be/iEym7VHoly0
+Original content provided by Tim Carambat: https://youtu.be/19kZiv9AhNs
 
 Thanks Tim!
 
